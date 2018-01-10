@@ -1,4 +1,5 @@
 {
-  "name": "Meeting room with hi-speed wifi & A/V equipment",
-  "order": 2
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAA8cawjfHc_WRBD-bKlEy3MgOTolRAgRue-UYMGkLwydBD1ikDfLf6E12kMxoRmN-PHBPE_XUBiyRwvbCzY96QBAg86ngeDexET4kqSdrclNMJ3DO7DUKzxI_WeHClm3ctEhD1YmbCHcguLpU7miRcY5suGhQ2EvsTdplcygMZSMx743qpTDcJBw&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 2,
+  "hidden": false
 }
